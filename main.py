@@ -12,5 +12,7 @@ print(my_slave.age)
 
 my_slave.get_older()
 
+print(my_slave.age)
+
 
 
